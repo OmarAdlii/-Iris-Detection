@@ -1,4 +1,4 @@
-# -Iris-Detection
+# Iris-Detection
 
 1-Captures images from the webcam and saves them to the "data/images" directory.
 
